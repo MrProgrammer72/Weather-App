@@ -4,4 +4,4 @@ In this tutorial ([Open in Youtube](https://youtu.be/qC_DtdhH-J4)), I'm going to
 # Screenshot
 Here we have project screenshot :
 
-![screenshot1](screenshot.jpg)
+![screenshot1](sample.jpg)
